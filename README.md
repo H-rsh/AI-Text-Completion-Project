@@ -15,7 +15,9 @@ This AI-Powered Text Completion App allows users to:
 
 ## How to Run the Script
 
-1. **Clone the repository** or copy the script locally.
+1. **Clone the repository** or copy the script locally:
+    git clone https://github.com/H-rsh/AI-Text-Completion-Project.git
+    cd finance-tracker
 2. Ensure Python and pip are installed on your system.
 3. Create and store your Cohere API key in a .env file: 
     api_key=your_actual_cohere_api_key_here
